@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
         <div className="inline-flex flex-col md:flex-row items-center gap-4 mb-12 animate-in fade-in slide-in-from-top-10 duration-1000">
           <div className="inline-flex items-center gap-3 border border-fuchsia-500/40 bg-black/60 backdrop-blur-2xl text-fuchsia-400 px-8 py-3 rounded-full text-[10px] md:text-xs font-black uppercase tracking-[0.5em] shadow-[0_0_40px_rgba(217,70,239,0.3)]">
             <span className="w-2.5 h-2.5 bg-fuchsia-500 rounded-full animate-ping shadow-[0_0_15px_#d946ef]"></span>
-            MATRÍCULA GRATUITA • LAWRENCE MA
+            MATRÍCULA GRATUITA - TEMPORADA 2026
           </div>
           <div className="text-white/60 font-bold uppercase tracking-[0.3em] text-[10px] hidden md:block">|</div>
           <div className="text-white font-black uppercase tracking-[0.2em] text-[10px] md:text-xs bg-white/10 px-6 py-3 rounded-full backdrop-blur-sm border border-white/5">
@@ -28,9 +28,9 @@ const Hero: React.FC = () => {
           </div>
         </div>
         
-        <h1 className="text-6xl md:text-[9rem] lg:text-[11rem] font-black font-oswald uppercase tracking-tighter italic leading-[0.8] mb-12 text-shadow-sharp animate-in zoom-in-90 duration-800">
-          THE <br className="hidden md:block" />
-          <span className="text-fuchsia-500 stroke-text-fuchsia neon-glow-fuchsia">MACHINE</span>
+        <h1 className="font-black font-oswald uppercase tracking-tighter italic leading-[0.8] mb-12 animate-in zoom-in-90 duration-800">
+          <span className="block text-3xl md:text-5xl lg:text-6xl text-white mb-4 tracking-[0.1em] drop-shadow-md">SOCCER ACADEMY</span>
+          <span className="text-5xl md:text-[8rem] lg:text-[10rem] text-fuchsia-500 stroke-text-fuchsia neon-glow-fuchsia drop-shadow-[4px_4px_2px_rgba(0,0,0,0.9)]">THE MACHINE</span>
         </h1>
         
         <div className="space-y-4 mb-14 animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-500">

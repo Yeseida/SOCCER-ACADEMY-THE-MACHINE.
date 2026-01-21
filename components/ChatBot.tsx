@@ -1,4 +1,3 @@
-
 import React, { useState, useRef, useEffect } from 'react';
 import { chatService } from '../services/geminiService';
 import { Message } from '../types';

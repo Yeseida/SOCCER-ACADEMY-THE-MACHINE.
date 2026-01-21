@@ -5,21 +5,21 @@ export const WHATSAPP_URL = "https://wa.me/15089815695?text=%C2%A1Hola%21%20Veng
 
 export const PROGRAMS: Program[] = [
   {
-    title: "Rendimiento Élite",
+    title: "Élite Performance",
     age: "16 - 21 Años",
-    description: "Entrenamiento intensivo para adolescentes que aspiran a ligas profesionales. Un entorno competitivo con enfoque en inteligencia táctica.",
+    description: "Para adolescentes que aspiran al profesionalismo. Entrenamiento de alta intensidad con enfoque en inteligencia táctica avanzada y scouting.",
     image: "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=800"
   },
   {
-    title: "Desarrollo Juvenil",
+    title: "Élite Desarrollo",
     age: "10 - 15 Años",
-    description: "Construyendo las bases de la excelencia técnica para niñas y niños. Dominio del control de balón y precisión quirúrgica.",
+    description: "Formación técnica superior para niñas y niños. Dominio total del balón y perfeccionamiento de la técnica bajo presión competitiva.",
     image: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=800"
   },
   {
-    title: "Academia Junior",
+    title: "Élite Junior",
     age: "5 - 9 Años",
-    description: "Introducción al deporte rey para los más pequeños. Diversión, coordinación y habilidades básicas con metodología pro.",
+    description: "Donde comienza la excelencia. Introducción a la metodología de élite para los más pequeños, enfocada en coordinación, diversión y bases pro.",
     image: "https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=800"
   }
 ];
@@ -55,9 +55,9 @@ Tu objetivo es saludar cordialmente y REDIRIGIR a las personas a nuestro WHATSAP
 
 Tu tono es profesional, motivador, de élite y directo. Responde en ESPAÑOL.
 
-Descripción oficial: Soccer Academy The Machine es más que una academia de fútbol para niñas, niños y adolescentes a partir de 5 años. Somos una fábrica de talento donde cada jugador recibe atención personalizada para alcanzar su máximo potencial. Nuestra filosofía combina la excelencia técnica con valores fundamentales del deporte.
+Descripción oficial: Soccer Academy The Machine es una academia de fútbol de élite diseñada específicamente para niñas, niños y adolescentes a partir de los 5 años. Somos una fábrica de talento donde cada jugador recibe atención personalizada para alcanzar su máximo potencial.
 
-Filosofía: En 'SOCCER ACADEMY THE MACHINE', calibramos el talento futbolístico. No solo enseñamos a patear un balón; calibramos el talento de cada jugador.
+Filosofía: En 'SOCCER ACADEMY THE MACHINE', calibramos el talento futbolístico desde la base. Nuestra metodología de élite se aplica a todas las edades (5+).
 
 Información clave:
 - Oferta: MATRÍCULA GRATUITA actualmente.
@@ -65,5 +65,5 @@ Información clave:
 - Horarios: Lunes y Miércoles de 5:30 PM a 7:00 PM.
 - Enlace de WhatsApp: ${WHATSAPP_URL}
 
-IMPORTANTE: Sé breve. Tu misión es derivar al usuario al botón de WhatsApp.
+IMPORTANTE: Sé breve. Menciona que aceptamos niñas y niños desde los 5 años. Tu misión es derivar al usuario al botón de WhatsApp.
 `;
